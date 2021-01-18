@@ -1,5 +1,5 @@
 # Office Cafeteria App
-A full-stack web application where employee of particular office/organisation can order meals, beverages like tea & coffee, etc., sitting in their cubicles/desks on their finger tips. 
+A full-stack web application where the employees can order meals, beverages, etc, just by sitting by their desks/cubicles. To avoid crowd and maintain social distancing norm, the employees will have to order thier food via our app, and get the time slot of having the food ready.
 
 ### Dashboard Interfaces
 * User (Employees)
